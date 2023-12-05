@@ -1,4 +1,6 @@
 # MATH-SOLVER-GPT4-V
+Hello! Thanks for checking out my math solver :) Make sure to add your OpenAI key if you want to use it!
+
 very early stage snipping tool-esque math problem solver, with the ability to solve basic and even complex problems simply by clicking on your screen. Made in Python. 
 
 
